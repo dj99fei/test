@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- tab -->
+    <color name="bg_tab_unselected">#2B3032</color>
+    <color name="bg_tab_selected">#363B3D</color>
+    <!-- tab end -->
+</resources>
